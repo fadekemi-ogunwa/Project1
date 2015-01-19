@@ -1,0 +1,23 @@
+body {
+      text-align: center;
+      background-size:cover;
+      background-position:center;
+      color:Ivory;
+      font-family: helvetica; 
+      font-size:22px;
+     }
+input {
+      border:3px solid DodgerBlue;
+      padding:10px;
+      background-color:Ivory;
+      }
+input[type="submit"] {
+      background: Ivory;
+      color: DodgerBlue;
+      }
+img {
+      border: 10px solid DodgerBlue;
+      border-radius:50%;
+      width:300px;
+      height:300px;
+    }
