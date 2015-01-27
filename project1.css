@@ -27,9 +27,6 @@ li {
         background: DodgerBlue;
         color: Ivory;
   }
-a:hover {
-      color:Ivory;
-}
 ul { 
       padding: 10px;
         background: rgba(0,0,0,0.5);
